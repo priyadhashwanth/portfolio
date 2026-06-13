@@ -2,7 +2,7 @@ function Languages() {
   const languages = [
     "English",
     "Tamil",
-    "kanada"
+    "Kannada"
     
   ];
 

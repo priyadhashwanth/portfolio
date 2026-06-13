@@ -37,13 +37,7 @@ function About() {
             and continuously learning new technologies.
           </p>
 
-          <a
-            href="/resume.pdf"
-            download
-            className="inline-block mt-8 bg-cyan-500 hover:bg-cyan-600 px-6 py-3 rounded-full font-semibold"
-          >
-            Download Resume
-          </a>
+          
         </div>
 
       </div>
